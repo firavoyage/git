@@ -1,4 +1,0 @@
-```
-// nothing here...
-// g.md
-```
